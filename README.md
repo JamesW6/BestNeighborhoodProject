@@ -1,10 +1,10 @@
 # BestNeighborhoodProject
 ## Team JESS
 ### Members
-- James Widmer (jow257@pitt.edu)
-- Ethan Enriquez (ete26@pitt.edu)
-- Sam Gordon (sag559@pitt.edu)
-- Sam Miller (swm80@pitt.edu)
+- James Widmer (jow257@pitt.edu) Worked on the "james" notebook
+- Ethan Enriquez (ete26@pitt.edu) - Worked on the "ethan" notebook
+- Sam Gordon (sag559@pitt.edu) - Worked on the "samg" notebook
+- Sam Miller (swm80@pitt.edu) - Worked on the "samm" notebook
 
 ### Description
 Our team determined the best Pittsburgh neighborhood to be the one with the highest quality of life based on a variety of submetrics.
